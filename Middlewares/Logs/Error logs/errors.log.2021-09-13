@@ -1,0 +1,4 @@
+::1 - - [12/Sep/2021:18:37:10 +0000] "PUT /api/products/60958cea75ebbeb33e18546a HTTP/1.1" 400 61 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+::1 - - [12/Sep/2021:18:37:39 +0000] "PUT /api/products/60958cea75ebbeb33e18546a HTTP/1.1" 400 58 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+::1 - - [12/Sep/2021:18:41:05 +0000] "PUT /api/products/60958cea75ebbeb33e18546a HTTP/1.1" 400 61 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+::1 - - [12/Sep/2021:18:45:25 +0000] "PUT /api/products/60958cea75ebbeb33e18546a HTTP/1.1" 400 61 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"

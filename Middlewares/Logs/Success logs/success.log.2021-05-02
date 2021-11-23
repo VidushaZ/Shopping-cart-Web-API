@@ -1,0 +1,2 @@
+::1 - - [02/May/2021:08:37:58 +0000] "OPTIONS /api/auth/check HTTP/1.1" 204 0 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [02/May/2021:08:38:05 +0000] "OPTIONS /api/auth/check HTTP/1.1" 204 0 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"

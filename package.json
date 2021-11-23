@@ -1,0 +1,54 @@
+{
+  "name": "web-cw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha",
+    "lint": "eslint ./",
+    "lint:fix": "eslint --fix --ext .js,.jsx ."
+  },
+  "engines": {
+    "node": "14.15.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "@y2nk4/currency-converter": "^1.1.0",
+    "bcrypt": "^5.0.1",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "file-stream-rotator": "^0.5.7",
+    "fs": "0.0.1-security",
+    "google-auth-library": "^7.6.2",
+    "got": "^11.8.2",
+    "helmet": "^4.4.1",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.13",
+    "mongoose-beautiful-unique-validation": "^7.1.1",
+    "morgan": "^1.10.0",
+    "objectid": "^3.2.1",
+    "parse-json": "^5.2.0",
+    "stream": "0.0.2",
+    "uniqid": "^5.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@typescript-eslint/parser": "^4.19.0",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "mocha": "^8.3.2"
+  }
+}

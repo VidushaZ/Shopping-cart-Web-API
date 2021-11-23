@@ -1,0 +1,6 @@
+::ffff:127.0.0.1 - - [25/Apr/2021:13:28:24 +0000] "GET /api/ HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:28:26 +0000] "POST /api/products HTTP/1.1" 400 68 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:33:05 +0000] "GET /api/ HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:33:06 +0000] "POST /api/products HTTP/1.1" 400 68 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:34:06 +0000] "GET /api/ HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:34:08 +0000] "POST /api/products HTTP/1.1" 400 68 "-" "node-superagent/3.8.3"

@@ -1,0 +1,2 @@
+::1 - - [12/May/2021:16:31:02 +0000] "POST /api/auth/check HTTP/1.1" 401 23 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [12/May/2021:16:53:53 +0000] "POST /api/auth/get/userId/ HTTP/1.1" 401 23 "-" "PostmanRuntime/7.26.8"

@@ -1,0 +1,6 @@
+::1 - - [14/May/2021:04:03:40 +0000] "POST /api/users/60989e83f4910412fe042b7c HTTP/1.1" 404 174 "-" "PostmanRuntime/7.26.8"
+::1 - - [14/May/2021:07:54:42 +0000] "POST /api/auth HTTP/1.1" 400 54 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [14/May/2021:08:12:06 +0000] "POST /api/auth HTTP/1.1" 400 54 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [14/May/2021:08:12:12 +0000] "POST /api/auth HTTP/1.1" 400 54 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [14/May/2021:08:39:10 +0000] "PUT /api/users/60943c1eb6825263a0b7fea0 HTTP/1.1" 400 44 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [14/May/2021:08:46:30 +0000] "PUT /api/users/60943c1eb6825263a0b7fea0 HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"

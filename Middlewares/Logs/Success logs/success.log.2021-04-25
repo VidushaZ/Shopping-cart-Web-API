@@ -1,0 +1,8 @@
+::1 - - [25/Apr/2021:06:28:06 +0000] "POST /api/carts/ HTTP/1.1" 200 391 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Apr/2021:06:30:35 +0000] "POST /api/carts/ HTTP/1.1" 200 391 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Apr/2021:06:46:40 +0000] "POST /api/products/ HTTP/1.1" 200 376 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Apr/2021:13:27:19 +0000] "POST /api/auth HTTP/1.1" 200 248 "-" "PostmanRuntime/7.26.8"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:28:24 +0000] "GET /api/products HTTP/1.1" 200 734 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:33:05 +0000] "GET /api/products HTTP/1.1" 200 734 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:33:06 +0000] "POST /api/products HTTP/1.1" 200 164 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [25/Apr/2021:13:34:06 +0000] "GET /api/products HTTP/1.1" 200 891 "-" "node-superagent/3.8.3"
